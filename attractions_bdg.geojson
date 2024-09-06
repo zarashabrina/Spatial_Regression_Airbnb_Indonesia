@@ -1,0 +1,2535 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-10T19:14:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125174070",
+        "addr:city": "Bandung",
+        "addr:housenumber": "57",
+        "addr:postcode": "40122",
+        "addr:street": "Jalan Diponegoro",
+        "building": "yes",
+        "building:levels": "3",
+        "fee": "yes",
+        "museum": "history",
+        "name": "Museum Geologi",
+        "opening_hours": "Mo-Th 08:00-16:00; Sa, Su 08:00-14:00",
+        "operator": "Goverment",
+        "operator:type": "public/government",
+        "phone": "(022)7213822",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "website": "http://museum.geology.esdm.go.id",
+        "wheelchair": "yes",
+        "wikidata": "Q7475825"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6220816,
+              -6.9001605
+            ],
+            [
+              107.6220795,
+              -6.9000743
+            ],
+            [
+              107.6218643,
+              -6.9000793
+            ],
+            [
+              107.621866,
+              -6.9001489
+            ],
+            [
+              107.621875,
+              -6.9001487
+            ],
+            [
+              107.6218854,
+              -6.9005831
+            ],
+            [
+              107.6215479,
+              -6.9005911
+            ],
+            [
+              107.6215438,
+              -6.9005271
+            ],
+            [
+              107.6213816,
+              -6.9005236
+            ],
+            [
+              107.6213834,
+              -6.900595
+            ],
+            [
+              107.6210809,
+              -6.9006021
+            ],
+            [
+              107.6210705,
+              -6.9001673
+            ],
+            [
+              107.6212196,
+              -6.9001662
+            ],
+            [
+              107.6212156,
+              -6.8999993
+            ],
+            [
+              107.6208335,
+              -6.9000082
+            ],
+            [
+              107.6208562,
+              -6.9009093
+            ],
+            [
+              107.6210551,
+              -6.900898
+            ],
+            [
+              107.6210533,
+              -6.9008248
+            ],
+            [
+              107.6218965,
+              -6.9007963
+            ],
+            [
+              107.621901,
+              -6.9008661
+            ],
+            [
+              107.6221003,
+              -6.9008592
+            ],
+            [
+              107.6220816,
+              -6.9001605
+            ]
+          ]
+        ]
+      },
+      "id": "way/125174070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152982392",
+        "addr:city": "Bandung",
+        "addr:housenumber": "91",
+        "addr:postcode": "40152",
+        "addr:street": "Jalan Profesor Dokter Sutami",
+        "building": "yes",
+        "museum": "art",
+        "name": "Museum Barli",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "phone": "(022)2011898",
+        "tactile_paving": "no",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q97241063"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5875118,
+              -6.8782324
+            ],
+            [
+              107.5874918,
+              -6.8782366
+            ],
+            [
+              107.5874625,
+              -6.8782522
+            ],
+            [
+              107.5874394,
+              -6.8782782
+            ],
+            [
+              107.5874275,
+              -6.8783091
+            ],
+            [
+              107.5874296,
+              -6.8783534
+            ],
+            [
+              107.5874442,
+              -6.8783831
+            ],
+            [
+              107.587465,
+              -6.8784038
+            ],
+            [
+              107.5874949,
+              -6.8784184
+            ],
+            [
+              107.5875278,
+              -6.8784238
+            ],
+            [
+              107.5875444,
+              -6.8784623
+            ],
+            [
+              107.5874536,
+              -6.8784948
+            ],
+            [
+              107.5874774,
+              -6.8785636
+            ],
+            [
+              107.5876647,
+              -6.8785097
+            ],
+            [
+              107.5876408,
+              -6.8784377
+            ],
+            [
+              107.5875842,
+              -6.8784551
+            ],
+            [
+              107.5875696,
+              -6.8784145
+            ],
+            [
+              107.5875997,
+              -6.8783822
+            ],
+            [
+              107.587616,
+              -6.8783435
+            ],
+            [
+              107.587616,
+              -6.8783105
+            ],
+            [
+              107.5876058,
+              -6.8782815
+            ],
+            [
+              107.5875851,
+              -6.8782557
+            ],
+            [
+              107.587545,
+              -6.8782347
+            ],
+            [
+              107.5875118,
+              -6.8782324
+            ]
+          ]
+        ]
+      },
+      "id": "way/152982392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166968559",
+        "addr:city": "Bandung",
+        "addr:housenumber": "65",
+        "addr:postcode": "40111",
+        "addr:street": "Jalan Asia Afrika",
+        "building": "yes",
+        "fee": "no",
+        "museum": "history",
+        "name": "Museum Konferensi Asia-Afrika",
+        "name:ja": "アジア・アフリカ会議博物館",
+        "opening_hours": "Tu-Th 08:00-16:00; Fr 14:00-16:00; Sa, Su 09:00-16:00",
+        "operator": "government",
+        "operator:type": "public/government",
+        "phone": "(022)4233564",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "website": "http://asianafricanmuseum.org/en/",
+        "wheelchair": "yes",
+        "wikidata": "Q10972781"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6095102,
+              -6.9208097
+            ],
+            [
+              107.6094991,
+              -6.9208609
+            ],
+            [
+              107.6095193,
+              -6.9208659
+            ],
+            [
+              107.6094874,
+              -6.9210589
+            ],
+            [
+              107.6095799,
+              -6.9210842
+            ],
+            [
+              107.6095719,
+              -6.9211681
+            ],
+            [
+              107.6093466,
+              -6.9211508
+            ],
+            [
+              107.6093298,
+              -6.9213037
+            ],
+            [
+              107.6093442,
+              -6.9213062
+            ],
+            [
+              107.6093587,
+              -6.9213199
+            ],
+            [
+              107.6093761,
+              -6.9213325
+            ],
+            [
+              107.6093969,
+              -6.9213339
+            ],
+            [
+              107.6094224,
+              -6.9213289
+            ],
+            [
+              107.6094371,
+              -6.9213199
+            ],
+            [
+              107.6095947,
+              -6.9213272
+            ],
+            [
+              107.6096376,
+              -6.9213126
+            ],
+            [
+              107.6096752,
+              -6.9212853
+            ],
+            [
+              107.609704,
+              -6.921246
+            ],
+            [
+              107.6097368,
+              -6.9210836
+            ],
+            [
+              107.6097663,
+              -6.9210623
+            ],
+            [
+              107.6097771,
+              -6.921038
+            ],
+            [
+              107.6097804,
+              -6.9210143
+            ],
+            [
+              107.6097717,
+              -6.9209984
+            ],
+            [
+              107.6097503,
+              -6.9209861
+            ],
+            [
+              107.6097757,
+              -6.9208606
+            ],
+            [
+              107.6095102,
+              -6.9208097
+            ]
+          ]
+        ]
+      },
+      "id": "way/166968559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167064114",
+        "name": "Saung Angklung Udjo",
+        "parking": "surface",
+        "tourism": "attraction",
+        "website": "https://angklung-udjo.co.id/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6547174,
+              -6.8977332
+            ],
+            [
+              107.654696,
+              -6.8978074
+            ],
+            [
+              107.6546834,
+              -6.8978827
+            ],
+            [
+              107.654999,
+              -6.8979598
+            ],
+            [
+              107.6549077,
+              -6.8983974
+            ],
+            [
+              107.6552854,
+              -6.8984862
+            ],
+            [
+              107.6552227,
+              -6.8987653
+            ],
+            [
+              107.6555555,
+              -6.8988524
+            ],
+            [
+              107.6556826,
+              -6.8981415
+            ],
+            [
+              107.6556948,
+              -6.8980791
+            ],
+            [
+              107.6557184,
+              -6.8979478
+            ],
+            [
+              107.6553119,
+              -6.8978818
+            ],
+            [
+              107.6553388,
+              -6.8977426
+            ],
+            [
+              107.654744,
+              -6.8976142
+            ],
+            [
+              107.6547215,
+              -6.8976939
+            ],
+            [
+              107.6547174,
+              -6.8977332
+            ]
+          ]
+        ]
+      },
+      "id": "way/167064114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422236650",
+        "name": "Trans Studio Bandung",
+        "tourism": "attraction",
+        "website": "https://www.transstudiobandung.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6353136,
+              -6.9271711
+            ],
+            [
+              107.6357653,
+              -6.9274236
+            ],
+            [
+              107.6362082,
+              -6.927668
+            ],
+            [
+              107.6365919,
+              -6.9278589
+            ],
+            [
+              107.6367507,
+              -6.9274324
+            ],
+            [
+              107.6369126,
+              -6.9267561
+            ],
+            [
+              107.637185,
+              -6.9257575
+            ],
+            [
+              107.6373721,
+              -6.9250342
+            ],
+            [
+              107.6374045,
+              -6.9246953
+            ],
+            [
+              107.6374041,
+              -6.9245168
+            ],
+            [
+              107.6374034,
+              -6.9243585
+            ],
+            [
+              107.6373777,
+              -6.924129
+            ],
+            [
+              107.6373513,
+              -6.9239357
+            ],
+            [
+              107.6372664,
+              -6.9238887
+            ],
+            [
+              107.6358971,
+              -6.9232423
+            ],
+            [
+              107.635826,
+              -6.9234434
+            ],
+            [
+              107.6357683,
+              -6.9237603
+            ],
+            [
+              107.6359145,
+              -6.9239799
+            ],
+            [
+              107.6359098,
+              -6.9240485
+            ],
+            [
+              107.6359078,
+              -6.9240958
+            ],
+            [
+              107.6357267,
+              -6.9250476
+            ],
+            [
+              107.6357271,
+              -6.9251767
+            ],
+            [
+              107.6357114,
+              -6.9252613
+            ],
+            [
+              107.6357107,
+              -6.9252643
+            ],
+            [
+              107.6356963,
+              -6.925339
+            ],
+            [
+              107.6356959,
+              -6.9253428
+            ],
+            [
+              107.6356755,
+              -6.9254494
+            ],
+            [
+              107.6357536,
+              -6.925463
+            ],
+            [
+              107.635711,
+              -6.9256202
+            ],
+            [
+              107.6356755,
+              -6.9258114
+            ],
+            [
+              107.6354763,
+              -6.9257499
+            ],
+            [
+              107.635303,
+              -6.9256753
+            ],
+            [
+              107.635193,
+              -6.9260627
+            ],
+            [
+              107.6354284,
+              -6.9261852
+            ],
+            [
+              107.6352424,
+              -6.9265104
+            ],
+            [
+              107.6352164,
+              -6.9265552
+            ],
+            [
+              107.6355753,
+              -6.9267537
+            ],
+            [
+              107.6353136,
+              -6.9271711
+            ]
+          ]
+        ]
+      },
+      "id": "way/422236650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/456429998",
+        "name": "NuArt",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.572031,
+              -6.8775197
+            ],
+            [
+              107.5719961,
+              -6.8777887
+            ],
+            [
+              107.5720632,
+              -6.8779191
+            ],
+            [
+              107.5723824,
+              -6.8777966
+            ],
+            [
+              107.5728024,
+              -6.8771502
+            ],
+            [
+              107.5732966,
+              -6.8767726
+            ],
+            [
+              107.5734769,
+              -6.8766421
+            ],
+            [
+              107.5731736,
+              -6.8764334
+            ],
+            [
+              107.5727498,
+              -6.8768594
+            ],
+            [
+              107.5726131,
+              -6.876942
+            ],
+            [
+              107.5723315,
+              -6.8770618
+            ],
+            [
+              107.5721973,
+              -6.8773226
+            ],
+            [
+              107.5721651,
+              -6.8774478
+            ],
+            [
+              107.572031,
+              -6.8775197
+            ]
+          ]
+        ]
+      },
+      "id": "way/456429998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522949322",
+        "addr:housenumber": "30 - 32",
+        "addr:street": "Jalan Ranca Bentang",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Rabbit Town",
+        "opening_hours": "Su 09:00-20:00; Mo-Sa 10:00-20:00",
+        "phone": "+622264404848",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6101149,
+              -6.8669968
+            ],
+            [
+              107.6100842,
+              -6.8671669
+            ],
+            [
+              107.6100572,
+              -6.8673225
+            ],
+            [
+              107.6103172,
+              -6.8673679
+            ],
+            [
+              107.6103344,
+              -6.8672708
+            ],
+            [
+              107.6102557,
+              -6.867257
+            ],
+            [
+              107.6102733,
+              -6.8671574
+            ],
+            [
+              107.6103399,
+              -6.8671691
+            ],
+            [
+              107.6103564,
+              -6.8670756
+            ],
+            [
+              107.6102482,
+              -6.8670567
+            ],
+            [
+              107.6102545,
+              -6.8670212
+            ],
+            [
+              107.6101149,
+              -6.8669968
+            ]
+          ]
+        ]
+      },
+      "id": "way/522949322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530035434",
+        "addr:city": "Kota Bandung",
+        "addr:country": "ID",
+        "addr:full": "Jl. Aceh No. 47, Babakan Ciamis, Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "addr:housenumber": "47",
+        "addr:postcode": "40117",
+        "addr:street": "Jalan Aceh",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "fee": "yes",
+        "museum": "history",
+        "name": "Museum Kota Bandung",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q65212192",
+        "wikipedia": "id:Museum Kota Bandung"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.609387,
+              -6.9100512
+            ],
+            [
+              107.609405,
+              -6.9100984
+            ],
+            [
+              107.6095116,
+              -6.9100585
+            ],
+            [
+              107.609506,
+              -6.9100437
+            ],
+            [
+              107.6097689,
+              -6.9099452
+            ],
+            [
+              107.6097243,
+              -6.9098277
+            ],
+            [
+              107.6094509,
+              -6.9099302
+            ],
+            [
+              107.6094431,
+              -6.9099098
+            ],
+            [
+              107.609347,
+              -6.9099458
+            ],
+            [
+              107.609387,
+              -6.9100512
+            ]
+          ]
+        ]
+      },
+      "id": "way/530035434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/634270768",
+        "addr:city": "BANDUNG",
+        "addr:housenumber": "22",
+        "addr:postcode": "40115",
+        "addr:street": "Jalan Diponegoro",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "government",
+        "building:walls": "brick",
+        "name": "Gedung Sate",
+        "office": "government",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6182706,
+              -6.9023281
+            ],
+            [
+              107.618278,
+              -6.9026749
+            ],
+            [
+              107.6186007,
+              -6.9026681
+            ],
+            [
+              107.6186075,
+              -6.9029855
+            ],
+            [
+              107.6189599,
+              -6.9029781
+            ],
+            [
+              107.6189535,
+              -6.9026778
+            ],
+            [
+              107.6192795,
+              -6.902671
+            ],
+            [
+              107.6192717,
+              -6.902307
+            ],
+            [
+              107.6182706,
+              -6.9023281
+            ]
+          ]
+        ]
+      },
+      "id": "way/634270768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700628085",
+        "addr:city": "Bandung",
+        "addr:housenumber": "229",
+        "addr:postcode": "40154",
+        "addr:street": "Jalan Dr. Setiabudi",
+        "building": "yes",
+        "museum": "history",
+        "name": "Museum Pendidikan Nasional UPI",
+        "opening_hours": "Mo-Th 09:00-11:15, 12:30-15:00; Fr 09:00-11:00, 13:00-15:30",
+        "operator": "Universitas Pendidikan Indonesia",
+        "operator:type": "public",
+        "phone": "+6281321512052",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "website": "https://museumpendidikannasional.upi.edu/",
+        "wheelchair": "yes",
+        "wikidata": "Q109001002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.594013,
+              -6.8596229
+            ],
+            [
+              107.5940149,
+              -6.8596476
+            ],
+            [
+              107.5939335,
+              -6.8596704
+            ],
+            [
+              107.5939689,
+              -6.8598953
+            ],
+            [
+              107.5939813,
+              -6.8599146
+            ],
+            [
+              107.5940407,
+              -6.859922
+            ],
+            [
+              107.5940877,
+              -6.8598905
+            ],
+            [
+              107.5940965,
+              -6.8599121
+            ],
+            [
+              107.5941068,
+              -6.8599319
+            ],
+            [
+              107.5941195,
+              -6.8599556
+            ],
+            [
+              107.5941281,
+              -6.8599709
+            ],
+            [
+              107.5941639,
+              -6.8599802
+            ],
+            [
+              107.5941985,
+              -6.8599818
+            ],
+            [
+              107.5942397,
+              -6.8599593
+            ],
+            [
+              107.5942873,
+              -6.8599266
+            ],
+            [
+              107.5943285,
+              -6.8598984
+            ],
+            [
+              107.5943502,
+              -6.8598663
+            ],
+            [
+              107.5943772,
+              -6.8598206
+            ],
+            [
+              107.5943818,
+              -6.8597897
+            ],
+            [
+              107.5943897,
+              -6.8597553
+            ],
+            [
+              107.594393,
+              -6.8596995
+            ],
+            [
+              107.5943788,
+              -6.8596328
+            ],
+            [
+              107.5943233,
+              -6.8596085
+            ],
+            [
+              107.5943188,
+              -6.8595709
+            ],
+            [
+              107.5940444,
+              -6.8595992
+            ],
+            [
+              107.5940483,
+              -6.859625
+            ],
+            [
+              107.594013,
+              -6.8596229
+            ]
+          ]
+        ]
+      },
+      "id": "way/700628085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124745445",
+        "addr:city": "Kota Bandung",
+        "addr:housenumber": "185",
+        "addr:postcode": "40243",
+        "addr:street": "Jalan Peta",
+        "building": "yes",
+        "museum": "history",
+        "name": "Museum Sri Baduga",
+        "opening_hours": "Mo-Su 08:00-15:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "phone": "(022)5210976",
+        "tactile_paving": "no",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q3171723"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6032858,
+              -6.9376594
+            ],
+            [
+              107.6032672,
+              -6.9379839
+            ],
+            [
+              107.6036011,
+              -6.9380048
+            ],
+            [
+              107.6036022,
+              -6.9379893
+            ],
+            [
+              107.6036861,
+              -6.937994
+            ],
+            [
+              107.6036854,
+              -6.9379734
+            ],
+            [
+              107.603908,
+              -6.937992
+            ],
+            [
+              107.6039076,
+              -6.9380162
+            ],
+            [
+              107.6039965,
+              -6.9380226
+            ],
+            [
+              107.6040153,
+              -6.9377231
+            ],
+            [
+              107.6036881,
+              -6.9377111
+            ],
+            [
+              107.6036842,
+              -6.937816
+            ],
+            [
+              107.6036821,
+              -6.9379139
+            ],
+            [
+              107.6036159,
+              -6.9379116
+            ],
+            [
+              107.6036251,
+              -6.9376732
+            ],
+            [
+              107.6032858,
+              -6.9376594
+            ]
+          ]
+        ]
+      },
+      "id": "way/1124745445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124747887",
+        "addr:city": "Bandung",
+        "addr:housenumber": "81",
+        "addr:postcode": "40112",
+        "addr:street": "Jalan Asia Afrika",
+        "building": "yes",
+        "layer": "2",
+        "museum": "art",
+        "name": "Museum Wolff Schoemaker (Preanger)",
+        "opening_hours": "Mo-Su 11:00-17:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q115861934"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6117701,
+              -6.9207873
+            ],
+            [
+              107.6115112,
+              -6.9207674
+            ],
+            [
+              107.6115005,
+              -6.9208515
+            ],
+            [
+              107.6114804,
+              -6.9208469
+            ],
+            [
+              107.6114697,
+              -6.9209325
+            ],
+            [
+              107.6114866,
+              -6.9209356
+            ],
+            [
+              107.6114835,
+              -6.9209708
+            ],
+            [
+              107.6116191,
+              -6.9209845
+            ],
+            [
+              107.6116129,
+              -6.921087
+            ],
+            [
+              107.6119842,
+              -6.921139
+            ],
+            [
+              107.6119857,
+              -6.9210534
+            ],
+            [
+              107.612024,
+              -6.9210627
+            ],
+            [
+              107.6120333,
+              -6.9209813
+            ],
+            [
+              107.6120027,
+              -6.9209769
+            ],
+            [
+              107.6120011,
+              -6.9209371
+            ],
+            [
+              107.6119611,
+              -6.9209295
+            ],
+            [
+              107.6119632,
+              -6.9209098
+            ],
+            [
+              107.6117608,
+              -6.9208851
+            ],
+            [
+              107.6117701,
+              -6.9207873
+            ]
+          ]
+        ]
+      },
+      "id": "way/1124747887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124757470",
+        "addr:city": "Bandung",
+        "addr:housenumber": "38",
+        "addr:postcode": "40111",
+        "addr:street": "Jalan Lembong",
+        "building": "yes",
+        "museum": "history",
+        "name": "Museum Mandala Wangsit Siliwangi",
+        "opening_hours": "Mo-Sa 08:00-14:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "phone": "(022)4203393",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q3658066"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.611044,
+              -6.9172028
+            ],
+            [
+              107.6110023,
+              -6.9174178
+            ],
+            [
+              107.6110809,
+              -6.9174292
+            ],
+            [
+              107.611084,
+              -6.9173872
+            ],
+            [
+              107.6110733,
+              -6.9173867
+            ],
+            [
+              107.6110784,
+              -6.9173589
+            ],
+            [
+              107.6111607,
+              -6.9173746
+            ],
+            [
+              107.6112022,
+              -6.9172521
+            ],
+            [
+              107.611044,
+              -6.9172028
+            ]
+          ]
+        ]
+      },
+      "id": "way/1124757470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144628242",
+        "building": "yes",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5619264,
+              -6.9493693
+            ],
+            [
+              107.5619911,
+              -6.9493926
+            ],
+            [
+              107.562003,
+              -6.9493601
+            ],
+            [
+              107.5619383,
+              -6.9493368
+            ],
+            [
+              107.5619264,
+              -6.9493693
+            ]
+          ]
+        ]
+      },
+      "id": "way/1144628242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956969150",
+        "addr:housenumber": "38",
+        "addr:street": "Jalan Lembong",
+        "description": "Army museum",
+        "fee": "no",
+        "name": "Museum Siliwangi",
+        "opening_hours": "Mo-Th 08:00-13:00; Fr 08:00-10:00; Sa 08:00-12:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6110914,
+          -6.9171828
+        ]
+      },
+      "id": "node/1956969150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3135693851",
+        "name": "NuArt",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5726523,
+          -6.8771077
+        ]
+      },
+      "id": "node/3135693851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348067546",
+        "addr:housenumber": "8",
+        "addr:street": "Jalan Inggit Ganarsih",
+        "description": "Museum about Sukarno's ex-wife",
+        "name": "Rumah Bersejarah Inggit Garnasih",
+        "opening_hours": "Mo-Su 07:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6024885,
+          -6.9314629
+        ]
+      },
+      "id": "node/3348067546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3754824465",
+        "name": "Kopi Aroma",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055833,
+          -6.9174648
+        ]
+      },
+      "id": "node/3754824465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4328247371",
+        "addr:city": "Bandung",
+        "addr:housenumber": "185",
+        "addr:street": "Jalan BKR",
+        "description": "The museum features various items related with the province of West Java, such as Sundanese crafts, furnishings, geologic history, and natural diversity.",
+        "name": "Museum Sri Baduga",
+        "opening_hours": "Tu-Fr 08:00-16:00; Sa, Su 08:00-12:00",
+        "tourism": "museum",
+        "wikidata": "Q3171723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6035894,
+          -6.9375234
+        ]
+      },
+      "id": "node/4328247371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338249203",
+        "building": "yes",
+        "name": "Iris Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6262382,
+          -6.9633866
+        ]
+      },
+      "id": "node/4338249203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451042091",
+        "name": "Egioto.com",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5775872,
+          -6.8672308
+        ]
+      },
+      "id": "node/4451042091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4553213462",
+        "name": "Museum Ir.H. Juanda",
+        "name:en": "Ir.H.Juanda",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6291737,
+          -6.8576071
+        ]
+      },
+      "id": "node/4553213462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4554145545",
+        "name": "Upside Down World Bandung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6162203,
+          -6.8971801
+        ]
+      },
+      "id": "node/4554145545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561512372",
+        "name": "Hand",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5716226,
+          -6.8779691
+        ]
+      },
+      "id": "node/4561512372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625757227",
+        "addr:housenumber": "293",
+        "addr:street": "Jalan Setiabudhi",
+        "name": "Amazing Art World",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+62 222018280",
+        "tourism": "museum",
+        "website": "https://m.facebook.com/AmazingArtWorld.Bandung/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963601,
+          -6.8516724
+        ]
+      },
+      "id": "node/4625757227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075162907",
+        "name": "Airplane",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5688951,
+          -6.9763855
+        ]
+      },
+      "id": "node/5075162907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5178031251",
+        "historic": "memorial",
+        "inscription": "PASTOOR\nH.C.VERBRAAK.\n1835 – 1918.\nAALMOEZENIER\n1874 – 1881\nATJEH\n1874 – 1907",
+        "memorial": "statue",
+        "name": "Pastoor\nH.C. Verbraak",
+        "start_date": "1922",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6141983,
+          -6.9089699
+        ]
+      },
+      "id": "node/5178031251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5188422242",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5979978,
+          -6.9123636
+        ]
+      },
+      "id": "node/5188422242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5190254354",
+        "name": "Tank",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6172358,
+          -6.909356
+        ]
+      },
+      "id": "node/5190254354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5312537881",
+        "fee": "no",
+        "name": "Skywalk Babakan Siliwangi",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6097253,
+          -6.8849961
+        ]
+      },
+      "id": "node/5312537881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5413346326",
+        "name": "Jalan Babakan Sukatma",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6553825,
+          -6.9013215
+        ]
+      },
+      "id": "node/5413346326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5413352721",
+        "name": "Jalan Cicabe",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6595227,
+          -6.9020296
+        ]
+      },
+      "id": "node/5413352721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5421486625",
+        "name": "Jalan Abdul Hamid",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6603024,
+          -6.9017543
+        ]
+      },
+      "id": "node/5421486625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444061321",
+        "name": "Tukang lauk",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6199385,
+          -6.8947478
+        ]
+      },
+      "id": "node/5444061321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503920859",
+        "name": "Sumur Bandung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6085001,
+          -6.9207697
+        ]
+      },
+      "id": "node/5503920859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506699714",
+        "addr:housenumber": "15",
+        "addr:street": "Jalan Sirnagalih",
+        "facebook": "https://m.facebook.com/bandungsciencecenter",
+        "name": "Bandung Science Center",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "+62222060412",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5947081,
+          -6.8773023
+        ]
+      },
+      "id": "node/5506699714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554026676",
+        "name": "Dinosaur",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6206805,
+          -6.9015347
+        ]
+      },
+      "id": "node/5554026676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554374177",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6027399,
+          -6.9043877
+        ]
+      },
+      "id": "node/5554374177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554688585",
+        "addr:housenumber": "22",
+        "addr:street": "Jalan Diponegoro",
+        "fee": "yes",
+        "name": "Museum Gedung Sate",
+        "opening_hours": "Tu-Su 09:30-16:00",
+        "phone": "+62224267753",
+        "tourism": "museum",
+        "website": "http://museumgedungsate.jabarprov.go.id",
+        "wheelchair": "yes",
+        "wikidata": "Q108991304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190825,
+          -6.9025816
+        ]
+      },
+      "id": "node/5554688585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564080423",
+        "name": "Jalan Cicabe",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6592016,
+          -6.9009306
+        ]
+      },
+      "id": "node/5564080423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586548849",
+        "addr:city": "Bandung",
+        "addr:housenumber": "73",
+        "addr:street": "Jalan Cilaki",
+        "fee": "no",
+        "name": "Museum Pos Indonesia",
+        "name:en": "Indonesia Postal Museum",
+        "opening_hours": "Mo-Fr 08:00-16:00; Sa 09:00-13:00",
+        "tourism": "museum",
+        "wikidata": "Q10986546",
+        "wikimedia_commons": "File:Kantor Pusat Pos Indonesia.JPG",
+        "wikipedia": "id:Museum Pos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198013,
+          -6.9020925
+        ]
+      },
+      "id": "node/5586548849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638624125",
+        "name": "Jalan Cicabe",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6592223,
+          -6.9009141
+        ]
+      },
+      "id": "node/5638624125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638655921",
+        "name": "Gang Keramat",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6595403,
+          -6.9023818
+        ]
+      },
+      "id": "node/5638655921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5654460921",
+        "name": "Flyover Pelangi Antapani",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6437018,
+          -6.9137166
+        ]
+      },
+      "id": "node/5654460921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5686426821",
+        "name": "Shoes and bags shopping street",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940721,
+          -6.9492258
+        ]
+      },
+      "id": "node/5686426821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5698161623",
+        "name": "bumi mang Ubed",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6285054,
+          -6.8777756
+        ]
+      },
+      "id": "node/5698161623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5733791521",
+        "name": "Jln. Mekar Jaya",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6793653,
+          -6.9050555
+        ]
+      },
+      "id": "node/5733791521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752772821",
+        "name": "Gang Karamat RW 01",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6604397,
+          -6.9026804
+        ]
+      },
+      "id": "node/5752772821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5778956253",
+        "name": "Gedung Denzibang",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6450405,
+          -6.9400217
+        ]
+      },
+      "id": "node/5778956253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5798695053",
+        "name": "Gang. Jamaras 2",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6626448,
+          -6.9033405
+        ]
+      },
+      "id": "node/5798695053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816728053",
+        "name": "Jalan Mekar Jaya",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6795015,
+          -6.9050951
+        ]
+      },
+      "id": "node/5816728053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824553653",
+        "name": "Perumahan Sukaasih",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6860279,
+          -6.907019
+        ]
+      },
+      "id": "node/5824553653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885293835",
+        "name": "Hall of Fame Jawa Barat",
+        "name:en": "Hall of Fame West Java",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6632081,
+          -6.9348098
+        ]
+      },
+      "id": "node/5885293835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5900727585",
+        "name": "Jalan Dr.Saharjo",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6742651,
+          -6.905456
+        ]
+      },
+      "id": "node/5900727585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123051585",
+        "name": "Jalan Cipaera",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242637,
+          -6.9216966
+        ]
+      },
+      "id": "node/6123051585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149684552",
+        "description": "Road closed for cars and street full of food, music, dance and other activities.",
+        "name": "Dago car free day",
+        "opening_hours": "Su 06:00-10:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6128415,
+          -6.8975593
+        ]
+      },
+      "id": "node/6149684552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177872385",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6347639,
+          -6.9142867
+        ]
+      },
+      "id": "node/6177872385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6177882416",
+        "name": "Bandung Juara",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6297653,
+          -6.9075311
+        ]
+      },
+      "id": "node/6177882416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180361558",
+        "name": "Bandros (Bandung Tour On Bus)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6213871,
+          -6.9012845
+        ]
+      },
+      "id": "node/6180361558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265263186",
+        "name": "Jalan Majalengka Dalam",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6304563,
+          -6.919637
+        ]
+      },
+      "id": "node/6265263186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6334753555",
+        "name": "Monumen Kubus",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6104652,
+          -6.8933348
+        ]
+      },
+      "id": "node/6334753555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342441385",
+        "name": "Jalan Sukasari II",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6207279,
+          -6.8923537
+        ]
+      },
+      "id": "node/6342441385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6708843085",
+        "name": "Verve Leather",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946982,
+          -6.8810172
+        ]
+      },
+      "id": "node/6708843085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6714107763",
+        "addr:housenumber": "45B",
+        "addr:street": "Jalan Diponegoro",
+        "fee": "no",
+        "name": "Museum Perbendaharaan",
+        "name:en": "Treasury museum",
+        "opening_hours": "Mo, Sa, Su 09:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6228648,
+          -6.9006473
+        ]
+      },
+      "id": "node/6714107763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725758915",
+        "addr:housenumber": "39a",
+        "addr:street": "Jalan Sunda",
+        "name": "Zerotoys Museum Mainan",
+        "name:en": "Zerotoys Toy Museum",
+        "opening_hours": "Mo-We, Fr-Su 11:00-20:00",
+        "tourism": "museum",
+        "website": "https://m.facebook.com/zerotoys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6176886,
+          -6.9199749
+        ]
+      },
+      "id": "node/6725758915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6765849550",
+        "artwork_type": "statue",
+        "material": "wood",
+        "name": "Monumen Trowulan",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5556926,
+          -6.9171872
+        ]
+      },
+      "id": "node/6765849550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6765849551",
+        "artwork_type": "statue",
+        "material": "wood",
+        "name": "Monumen Pharmindo",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.555647,
+          -6.9172476
+        ]
+      },
+      "id": "node/6765849551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083339722",
+        "fee": "no",
+        "name": "Bandung Planning Gallery",
+        "opening_hours": "Mo-Sa 09:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6098121,
+          -6.9103103
+        ]
+      },
+      "id": "node/7083339722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246694685",
+        "amenity": "place_of_worship",
+        "name": "Mesjid Al-Hidayah",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6205837,
+          -6.8893846
+        ]
+      },
+      "id": "node/7246694685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7870980185",
+        "name": "Jln. Madsa'i",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621758,
+          -6.8887438
+        ]
+      },
+      "id": "node/7870980185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7959513585",
+        "name": "Warung Gombong Teh Andra",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6215938,
+          -6.8886001
+        ]
+      },
+      "id": "node/7959513585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836370436",
+        "name": "Banceuy Prison Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6069997,
+          -6.9197433
+        ]
+      },
+      "id": "node/9836370436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933910373",
+        "name": "Panda",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5872205,
+          -6.8939851
+        ]
+      },
+      "id": "node/9933910373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9936558297",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6094923,
+          -6.8994803
+        ]
+      },
+      "id": "node/9936558297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9938445753",
+        "name": "Kampung Korea Bandung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6406431,
+          -6.9155688
+        ]
+      },
+      "id": "node/9938445753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9938925375",
+        "name": "Kiara Artha Park sign",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6416053,
+          -6.9160566
+        ]
+      },
+      "id": "node/9938925375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047168681",
+        "artwork_subject": "Mas Soetardjo Kertohadikusumo",
+        "artwork_type": "bust",
+        "material": "bronze",
+        "name": "Mas Soetardjo Kertohadikusumo",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6109914,
+          -6.9215236
+        ]
+      },
+      "id": "node/10047168681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047168682",
+        "artwork_subject": "Soekarno",
+        "artwork_type": "bust",
+        "material": "bronze",
+        "name": "Soekarno",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6109606,
+          -6.9215289
+        ]
+      },
+      "id": "node/10047168682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047168683",
+        "artwork_subject": "Raden Agung Wiranatakusumah II",
+        "artwork_type": "bust",
+        "material": "bronze",
+        "name": "R. A. Wiranatakusumah II",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6110753,
+          -6.9215422
+        ]
+      },
+      "id": "node/10047168683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047168684",
+        "artwork_subject": "Herman Willem Daendels",
+        "artwork_type": "bust",
+        "material": "bronze",
+        "name": "H. W. Daendels",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6110525,
+          -6.9215276
+        ]
+      },
+      "id": "node/10047168684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280227881",
+        "addr:city": "Bandung",
+        "addr:housenumber": "5",
+        "addr:postcode": "40292",
+        "addr:street": "Jalan Aria Utama",
+        "name": "Museum Nike Ardilla",
+        "phone": "+6281572115999",
+        "tourism": "museum",
+        "wikidata": "Q115794539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6725146,
+          -6.9405148
+        ]
+      },
+      "id": "node/10280227881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280251596",
+        "addr:city": "Bandung",
+        "addr:housenumber": "37",
+        "addr:postcode": "40211",
+        "addr:street": "Jalan Nana Rohana",
+        "name": "Museum Kebudayaan Tionghoa",
+        "tourism": "museum",
+        "wikidata": "Q115794648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5773807,
+          -6.9217089
+        ]
+      },
+      "id": "node/10280251596"
+    }
+  ]
+}

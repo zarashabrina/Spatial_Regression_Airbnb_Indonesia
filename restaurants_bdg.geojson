@@ -1,0 +1,4703 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-10T19:04:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119437949",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "commercial",
+        "building:walls": "brick",
+        "cuisine": "italian",
+        "name": "Warung Pasta",
+        "opening_hours": "Mo-Fr 08:00-15:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.612426,
+              -6.893327
+            ],
+            [
+              107.6123957,
+              -6.8934574
+            ],
+            [
+              107.61259,
+              -6.8935019
+            ],
+            [
+              107.6126203,
+              -6.8933715
+            ],
+            [
+              107.612426,
+              -6.893327
+            ]
+          ]
+        ]
+      },
+      "id": "way/119437949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119437950",
+        "addr:city": "Bandung",
+        "addr:housenumber": "113",
+        "addr:postcode": "40132",
+        "addr:street": "Jalan Ir. H. Juanda",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "commercial",
+        "building:walls": "brick",
+        "name": "Babakaran x Taichi \"Goreng\"",
+        "opening_hours": "Mo-Fr 08:00-15:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6121703,
+              -6.8925273
+            ],
+            [
+              107.6121626,
+              -6.8926664
+            ],
+            [
+              107.612662,
+              -6.8926936
+            ],
+            [
+              107.6126697,
+              -6.8925545
+            ],
+            [
+              107.6121703,
+              -6.8925273
+            ]
+          ]
+        ]
+      },
+      "id": "way/119437950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119441849",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "building:use": "commercial",
+        "building:walls": "brick",
+        "name": "Morning Dew",
+        "opening_hours": "Mo-Su 08:30-20:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6120737,
+              -6.8980245
+            ],
+            [
+              107.6124941,
+              -6.8980706
+            ],
+            [
+              107.6125117,
+              -6.8979131
+            ],
+            [
+              107.6120912,
+              -6.897867
+            ],
+            [
+              107.6120737,
+              -6.8980245
+            ]
+          ]
+        ]
+      },
+      "id": "way/119441849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119760342",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "concrete",
+        "building:structure": "reinforced_masonry",
+        "building:use": "commercial",
+        "building:walls": "brick",
+        "name": "Bakso Malang Karapitan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6104388,
+              -6.9095164
+            ],
+            [
+              107.6103092,
+              -6.9095175
+            ],
+            [
+              107.6103101,
+              -6.9096129
+            ],
+            [
+              107.6104396,
+              -6.9096118
+            ],
+            [
+              107.6104388,
+              -6.9095164
+            ]
+          ]
+        ]
+      },
+      "id": "way/119760342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124469759",
+        "amenity": "restaurant",
+        "building": "house",
+        "building:levels": "2",
+        "building:roof": "asbestos",
+        "building:structure": "reinforced_masonry",
+        "building:use": "commercial",
+        "building:walls": "brick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6149442,
+              -6.8845701
+            ],
+            [
+              107.614892,
+              -6.884618
+            ],
+            [
+              107.6149737,
+              -6.8847059
+            ],
+            [
+              107.6150259,
+              -6.884658
+            ],
+            [
+              107.6149442,
+              -6.8845701
+            ]
+          ]
+        ]
+      },
+      "id": "way/124469759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124817379",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "shop",
+        "building:walls": "brick",
+        "cuisine": "sundanese",
+        "name": "Rumah Makan Ampera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.622544,
+              -6.8860215
+            ],
+            [
+              107.6226309,
+              -6.8860998
+            ],
+            [
+              107.6227311,
+              -6.8859901
+            ],
+            [
+              107.6226442,
+              -6.8859118
+            ],
+            [
+              107.622544,
+              -6.8860215
+            ]
+          ]
+        ]
+      },
+      "id": "way/124817379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125177127",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Centrum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6163451,
+              -6.9122077
+            ],
+            [
+              107.6161027,
+              -6.9123057
+            ],
+            [
+              107.6163182,
+              -6.912827
+            ],
+            [
+              107.6165802,
+              -6.9127213
+            ],
+            [
+              107.6163451,
+              -6.9122077
+            ]
+          ]
+        ]
+      },
+      "id": "way/125177127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174262612",
+        "amenity": "restaurant",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Rumah Makan Padang Sederhana",
+        "operator": "Indonesia",
+        "smoking": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6005071,
+              -6.8828908
+            ],
+            [
+              107.6004665,
+              -6.8829202
+            ],
+            [
+              107.6004644,
+              -6.8829396
+            ],
+            [
+              107.6003435,
+              -6.8830656
+            ],
+            [
+              107.6004705,
+              -6.8831957
+            ],
+            [
+              107.6005397,
+              -6.8831255
+            ],
+            [
+              107.6005041,
+              -6.883091
+            ],
+            [
+              107.6005254,
+              -6.8830656
+            ],
+            [
+              107.600562,
+              -6.8831032
+            ],
+            [
+              107.6006423,
+              -6.8830229
+            ],
+            [
+              107.6005905,
+              -6.88297
+            ],
+            [
+              107.6005986,
+              -6.8829578
+            ],
+            [
+              107.6005559,
+              -6.8829182
+            ],
+            [
+              107.6005397,
+              -6.8829274
+            ],
+            [
+              107.6005071,
+              -6.8828908
+            ]
+          ]
+        ]
+      },
+      "id": "way/174262612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299050938",
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:housenumber": "177",
+        "addr:postcode": "40132",
+        "addr:street": "Ir. H. Juanda",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Verde Resto and Longue",
+        "name:en": "Verde",
+        "phone": "+62 22 2503005"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6133552,
+              -6.8854364
+            ],
+            [
+              107.6133552,
+              -6.885479
+            ],
+            [
+              107.6133283,
+              -6.8854776
+            ],
+            [
+              107.6133242,
+              -6.8855067
+            ],
+            [
+              107.6133216,
+              -6.8855256
+            ],
+            [
+              107.613496,
+              -6.8855349
+            ],
+            [
+              107.6135013,
+              -6.8853964
+            ],
+            [
+              107.6134437,
+              -6.8853365
+            ],
+            [
+              107.6134075,
+              -6.8853325
+            ],
+            [
+              107.6133552,
+              -6.8854364
+            ]
+          ]
+        ]
+      },
+      "id": "way/299050938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299082464",
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:street": "Badak Singa",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "Lumpia",
+        "name": "Lumpia Semarang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6106481,
+              -6.8970146
+            ],
+            [
+              107.6106457,
+              -6.8971955
+            ],
+            [
+              107.6108279,
+              -6.8972047
+            ],
+            [
+              107.6108846,
+              -6.8971554
+            ],
+            [
+              107.6109511,
+              -6.897107
+            ],
+            [
+              107.6109656,
+              -6.8970819
+            ],
+            [
+              107.6108419,
+              -6.896915
+            ],
+            [
+              107.6106481,
+              -6.8970146
+            ]
+          ]
+        ]
+      },
+      "id": "way/299082464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299103743",
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:street": "Sulanjana",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Bebek Garang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6108525,
+              -6.8999225
+            ],
+            [
+              107.6107936,
+              -6.9001228
+            ],
+            [
+              107.6109878,
+              -6.9001791
+            ],
+            [
+              107.6110467,
+              -6.8999788
+            ],
+            [
+              107.6108525,
+              -6.8999225
+            ]
+          ]
+        ]
+      },
+      "id": "way/299103743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327929452",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "Batak_food",
+        "designation": "restaurant",
+        "name": "Lapo Gundaling"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.618122,
+              -6.8978798
+            ],
+            [
+              107.6181274,
+              -6.8980183
+            ],
+            [
+              107.6182723,
+              -6.898013
+            ],
+            [
+              107.6182722,
+              -6.8978532
+            ],
+            [
+              107.618122,
+              -6.8978798
+            ]
+          ]
+        ]
+      },
+      "id": "way/327929452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344184000",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Colombia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6128589,
+              -6.8935488
+            ],
+            [
+              107.6128858,
+              -6.8933808
+            ],
+            [
+              107.612782,
+              -6.8933617
+            ],
+            [
+              107.6127704,
+              -6.8934151
+            ],
+            [
+              107.612682,
+              -6.8933999
+            ],
+            [
+              107.6126589,
+              -6.8935144
+            ],
+            [
+              107.6128589,
+              -6.8935488
+            ]
+          ]
+        ]
+      },
+      "id": "way/344184000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352095",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "western",
+        "name": "Noah's Barn"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6123812,
+              -6.8870411
+            ],
+            [
+              107.6124304,
+              -6.8870432
+            ],
+            [
+              107.6124287,
+              -6.8871247
+            ],
+            [
+              107.6124879,
+              -6.8871252
+            ],
+            [
+              107.6124879,
+              -6.8871128
+            ],
+            [
+              107.6125544,
+              -6.8871145
+            ],
+            [
+              107.6125569,
+              -6.8869555
+            ],
+            [
+              107.61245,
+              -6.8869506
+            ],
+            [
+              107.6124639,
+              -6.8866877
+            ],
+            [
+              107.6126009,
+              -6.8866949
+            ],
+            [
+              107.6125964,
+              -6.8868364
+            ],
+            [
+              107.6126523,
+              -6.8868394
+            ],
+            [
+              107.6126574,
+              -6.8866314
+            ],
+            [
+              107.6124021,
+              -6.8866197
+            ],
+            [
+              107.6123812,
+              -6.8870411
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352098",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Wijdeblik"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6117927,
+              -6.8865539
+            ],
+            [
+              107.6117929,
+              -6.8866917
+            ],
+            [
+              107.611826,
+              -6.8866916
+            ],
+            [
+              107.6118262,
+              -6.8868528
+            ],
+            [
+              107.6119961,
+              -6.8868525
+            ],
+            [
+              107.6119958,
+              -6.8866286
+            ],
+            [
+              107.6119957,
+              -6.8865536
+            ],
+            [
+              107.6117927,
+              -6.8865539
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352099",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Platform 78"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6118215,
+              -6.8868617
+            ],
+            [
+              107.611819,
+              -6.8869705
+            ],
+            [
+              107.6117998,
+              -6.8869704
+            ],
+            [
+              107.6117982,
+              -6.8870003
+            ],
+            [
+              107.6117492,
+              -6.8869993
+            ],
+            [
+              107.6117486,
+              -6.8870829
+            ],
+            [
+              107.6117863,
+              -6.8870841
+            ],
+            [
+              107.611787,
+              -6.8871127
+            ],
+            [
+              107.6118675,
+              -6.887118
+            ],
+            [
+              107.6118688,
+              -6.8870928
+            ],
+            [
+              107.6119906,
+              -6.8871081
+            ],
+            [
+              107.6119973,
+              -6.8868746
+            ],
+            [
+              107.6118215,
+              -6.8868617
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352100",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Toko You"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6134511,
+              -6.894917
+            ],
+            [
+              107.6134384,
+              -6.8951809
+            ],
+            [
+              107.6138436,
+              -6.8951981
+            ],
+            [
+              107.6138507,
+              -6.8949387
+            ],
+            [
+              107.6134511,
+              -6.894917
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352102",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Soto Padang Uda Ujang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6174645,
+              -6.8960087
+            ],
+            [
+              107.6174381,
+              -6.8961082
+            ],
+            [
+              107.6175999,
+              -6.8961099
+            ],
+            [
+              107.6176333,
+              -6.8959982
+            ],
+            [
+              107.6174645,
+              -6.8960087
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352103",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "20",
+        "cuisine": "regional",
+        "name": "Lontong Medan Kak Zahra",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6174451,
+              -6.8920568
+            ],
+            [
+              107.6175574,
+              -6.8921447
+            ],
+            [
+              107.617593,
+              -6.8921007
+            ],
+            [
+              107.6175274,
+              -6.8919815
+            ],
+            [
+              107.6174451,
+              -6.8920568
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352104",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "50",
+        "cuisine": "regional",
+        "name": "Boga Raso"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6148232,
+              -6.8860192
+            ],
+            [
+              107.6148566,
+              -6.8861274
+            ],
+            [
+              107.6149888,
+              -6.8860836
+            ],
+            [
+              107.6150043,
+              -6.8860785
+            ],
+            [
+              107.6149692,
+              -6.8859703
+            ],
+            [
+              107.6148232,
+              -6.8860192
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352109",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "100",
+        "cuisine": "japanese",
+        "name": "Midori",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6153565,
+              -6.9034273
+            ],
+            [
+              107.615237,
+              -6.9035284
+            ],
+            [
+              107.6151253,
+              -6.9036257
+            ],
+            [
+              107.6152742,
+              -6.9037716
+            ],
+            [
+              107.615574,
+              -6.9036257
+            ],
+            [
+              107.6155485,
+              -6.9035557
+            ],
+            [
+              107.6153565,
+              -6.9034273
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352116",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "arab",
+        "name": "Qahwa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6172034,
+              -6.904622
+            ],
+            [
+              107.6174239,
+              -6.9046249
+            ],
+            [
+              107.6174153,
+              -6.9042694
+            ],
+            [
+              107.617189,
+              -6.9042779
+            ],
+            [
+              107.6172034,
+              -6.904622
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352122",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "100",
+        "cuisine": "steamboat",
+        "name": "Don Woori"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6204015,
+              -6.9066488
+            ],
+            [
+              107.6201179,
+              -6.9067303
+            ],
+            [
+              107.6201823,
+              -6.906948
+            ],
+            [
+              107.6204675,
+              -6.9068101
+            ],
+            [
+              107.6204015,
+              -6.9066488
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352125",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Sambel Hejo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6160721,
+              -6.9167836
+            ],
+            [
+              107.6162705,
+              -6.9168362
+            ],
+            [
+              107.6163525,
+              -6.9165237
+            ],
+            [
+              107.616133,
+              -6.9164528
+            ],
+            [
+              107.6160721,
+              -6.9167836
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352129",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Bakso Avon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6184897,
+              -6.9217244
+            ],
+            [
+              107.6186292,
+              -6.9216602
+            ],
+            [
+              107.6185946,
+              -6.9215859
+            ],
+            [
+              107.6184551,
+              -6.9216501
+            ],
+            [
+              107.6184897,
+              -6.9217244
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352629",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Bakso Semar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6035631,
+              -6.9001578
+            ],
+            [
+              107.6037043,
+              -6.900153
+            ],
+            [
+              107.603709,
+              -6.9000254
+            ],
+            [
+              107.6036333,
+              -6.9000243
+            ],
+            [
+              107.6036299,
+              -6.9000614
+            ],
+            [
+              107.6035711,
+              -6.9000591
+            ],
+            [
+              107.6035631,
+              -6.9001578
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352630",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "grill",
+        "name": "Mangkuk Manis"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6039141,
+              -6.8982767
+            ],
+            [
+              107.6039173,
+              -6.8981771
+            ],
+            [
+              107.6038171,
+              -6.8981739
+            ],
+            [
+              107.6038159,
+              -6.8982124
+            ],
+            [
+              107.603687,
+              -6.8982083
+            ],
+            [
+              107.6036848,
+              -6.8982776
+            ],
+            [
+              107.6037163,
+              -6.8982786
+            ],
+            [
+              107.6037151,
+              -6.8983138
+            ],
+            [
+              107.6037759,
+              -6.8983157
+            ],
+            [
+              107.6037773,
+              -6.8982724
+            ],
+            [
+              107.6039141,
+              -6.8982767
+            ]
+          ]
+        ]
+      },
+      "id": "way/376352630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376628477",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "30",
+        "cuisine": "Martabak",
+        "delivery": "yes",
+        "name": "Martabak Nikmat Andir",
+        "note": "Delivery services using GoJek",
+        "smoking": "separated",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.590178,
+              -6.9192072
+            ],
+            [
+              107.5901675,
+              -6.9192918
+            ],
+            [
+              107.5902492,
+              -6.9193045
+            ],
+            [
+              107.5902457,
+              -6.9192721
+            ],
+            [
+              107.5902341,
+              -6.9192141
+            ],
+            [
+              107.590178,
+              -6.9192072
+            ]
+          ]
+        ]
+      },
+      "id": "way/376628477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376628478",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "50",
+        "cuisine": "Noodle,_Bakso",
+        "name": "Mie Linggarjati",
+        "smoking": "separated",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6076528,
+              -6.9228404
+            ],
+            [
+              107.6077279,
+              -6.9228537
+            ],
+            [
+              107.6077333,
+              -6.9227499
+            ],
+            [
+              107.6076635,
+              -6.9227446
+            ],
+            [
+              107.6076528,
+              -6.9228404
+            ]
+          ]
+        ]
+      },
+      "id": "way/376628478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299607",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.614893,
+              -6.8828146
+            ],
+            [
+              107.6149819,
+              -6.8827039
+            ],
+            [
+              107.61491,
+              -6.882652
+            ],
+            [
+              107.6148247,
+              -6.8827494
+            ],
+            [
+              107.614893,
+              -6.8828146
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299616",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Ayam Goreng & Bakar Pringgodani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6161348,
+              -6.8798117
+            ],
+            [
+              107.6159815,
+              -6.879774
+            ],
+            [
+              107.6159773,
+              -6.8797906
+            ],
+            [
+              107.6159516,
+              -6.8797843
+            ],
+            [
+              107.615936,
+              -6.8798471
+            ],
+            [
+              107.6159231,
+              -6.879844
+            ],
+            [
+              107.6159113,
+              -6.8798917
+            ],
+            [
+              107.6160253,
+              -6.8799196
+            ],
+            [
+              107.6160308,
+              -6.8798978
+            ],
+            [
+              107.6161086,
+              -6.8799169
+            ],
+            [
+              107.6161348,
+              -6.8798117
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299618",
+        "amenity": "restaurant",
+        "name": "BEKLI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6153468,
+              -6.8821622
+            ],
+            [
+              107.6153951,
+              -6.882093
+            ],
+            [
+              107.6152581,
+              -6.8820312
+            ],
+            [
+              107.6152237,
+              -6.8820948
+            ],
+            [
+              107.6153468,
+              -6.8821622
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299625",
+        "amenity": "restaurant",
+        "name": "Bubur Pak Zaenal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6149643,
+              -6.8830143
+            ],
+            [
+              107.6150149,
+              -6.8830467
+            ],
+            [
+              107.6150326,
+              -6.8830041
+            ],
+            [
+              107.6149894,
+              -6.8829778
+            ],
+            [
+              107.6149643,
+              -6.8830143
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299638",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Happy Cow Steak"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6179147,
+              -6.8761555
+            ],
+            [
+              107.6177896,
+              -6.8761043
+            ],
+            [
+              107.6177394,
+              -6.8762255
+            ],
+            [
+              107.6178644,
+              -6.8762766
+            ],
+            [
+              107.6179147,
+              -6.8761555
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299650",
+        "amenity": "restaurant",
+        "building": "residential",
+        "name": "Kantin Tegal Abadi Putra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6176516,
+              -6.8771213
+            ],
+            [
+              107.6176887,
+              -6.877148
+            ],
+            [
+              107.6177251,
+              -6.8770981
+            ],
+            [
+              107.6176881,
+              -6.8770714
+            ],
+            [
+              107.6176516,
+              -6.8771213
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299651",
+        "amenity": "restaurant",
+        "name": "Kantin Tegal Abadi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6151591,
+              -6.882455
+            ],
+            [
+              107.6150676,
+              -6.8823868
+            ],
+            [
+              107.6150263,
+              -6.8824414
+            ],
+            [
+              107.6151179,
+              -6.8825096
+            ],
+            [
+              107.6151591,
+              -6.882455
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299656",
+        "amenity": "restaurant",
+        "name": "Kedai Mie Dago"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.615248,
+              -6.8823376
+            ],
+            [
+              107.6152992,
+              -6.8822694
+            ],
+            [
+              107.615098,
+              -6.8821205
+            ],
+            [
+              107.6150468,
+              -6.8821887
+            ],
+            [
+              107.6151561,
+              -6.8822696
+            ],
+            [
+              107.615248,
+              -6.8823376
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299659",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Lumbang Rasa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6168427,
+              -6.8775817
+            ],
+            [
+              107.6167232,
+              -6.8775297
+            ],
+            [
+              107.6166701,
+              -6.8776484
+            ],
+            [
+              107.6167888,
+              -6.8777036
+            ],
+            [
+              107.6168427,
+              -6.8775817
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299674",
+        "amenity": "restaurant",
+        "name": "Sam's Strawberry Corner"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6172862,
+              -6.8768883
+            ],
+            [
+              107.6171972,
+              -6.8768593
+            ],
+            [
+              107.6171915,
+              -6.8768765
+            ],
+            [
+              107.6171189,
+              -6.8768529
+            ],
+            [
+              107.61709,
+              -6.8769407
+            ],
+            [
+              107.6172233,
+              -6.876984
+            ],
+            [
+              107.6172293,
+              -6.8769658
+            ],
+            [
+              107.6172575,
+              -6.876975
+            ],
+            [
+              107.6172862,
+              -6.8768883
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299678",
+        "amenity": "restaurant",
+        "building": "retail",
+        "name": "Sate Banyumas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6138712,
+              -6.8850848
+            ],
+            [
+              107.6138591,
+              -6.8851154
+            ],
+            [
+              107.6139354,
+              -6.8851336
+            ],
+            [
+              107.6139425,
+              -6.885105
+            ],
+            [
+              107.6138712,
+              -6.8850848
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299685",
+        "amenity": "restaurant",
+        "name": "Tegal Murni"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6174894,
+              -6.8774508
+            ],
+            [
+              107.6175349,
+              -6.8773682
+            ],
+            [
+              107.6174701,
+              -6.877332
+            ],
+            [
+              107.617424,
+              -6.8774133
+            ],
+            [
+              107.6174894,
+              -6.8774508
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299687",
+        "addr:city": "Dago, Coblong, Kota Bandung, Jawa Barat",
+        "addr:housenumber": "345",
+        "addr:street": "Jl. Ir. H.Djuanda",
+        "amenity": "restaurant",
+        "name": "Thai Palace"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6187212,
+              -6.8747797
+            ],
+            [
+              107.6185022,
+              -6.8746996
+            ],
+            [
+              107.6184539,
+              -6.8748296
+            ],
+            [
+              107.6186729,
+              -6.8749098
+            ],
+            [
+              107.6187212,
+              -6.8747797
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299724",
+        "amenity": "restaurant",
+        "name": "Warung Colenak"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6187433,
+              -6.8749918
+            ],
+            [
+              107.6186975,
+              -6.8749685
+            ],
+            [
+              107.6186637,
+              -6.8750339
+            ],
+            [
+              107.6187095,
+              -6.8750572
+            ],
+            [
+              107.6187433,
+              -6.8749918
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299727",
+        "amenity": "restaurant",
+        "name": "Warung Dago 205"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6151179,
+              -6.8825096
+            ],
+            [
+              107.6150263,
+              -6.8824414
+            ],
+            [
+              107.6149956,
+              -6.8824821
+            ],
+            [
+              107.6150872,
+              -6.8825503
+            ],
+            [
+              107.6151179,
+              -6.8825096
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299729",
+        "amenity": "restaurant",
+        "name": "Warung Nasi Brokah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6191354,
+              -6.8741014
+            ],
+            [
+              107.6190932,
+              -6.8740818
+            ],
+            [
+              107.6190815,
+              -6.8741066
+            ],
+            [
+              107.6191237,
+              -6.8741262
+            ],
+            [
+              107.6191354,
+              -6.8741014
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377299731",
+        "amenity": "restaurant",
+        "name": "Warung Nasi Tegal Dua Putri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6183335,
+              -6.8757173
+            ],
+            [
+              107.6183184,
+              -6.8757428
+            ],
+            [
+              107.6183821,
+              -6.8757733
+            ],
+            [
+              107.6183976,
+              -6.8757454
+            ],
+            [
+              107.6183335,
+              -6.8757173
+            ]
+          ]
+        ]
+      },
+      "id": "way/377299731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383052744",
+        "addr:city": "Bandung",
+        "addr:housenumber": "618",
+        "addr:street": "Jalan Soekarno-Hatta",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "RUMAH MAKAN AMPERA",
+        "name:en": "Ampera",
+        "opening_hours": "08:00-22:00",
+        "smoking": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.663924,
+              -6.9394162
+            ],
+            [
+              107.6638989,
+              -6.9396513
+            ],
+            [
+              107.6638776,
+              -6.9398504
+            ],
+            [
+              107.6641262,
+              -6.9398895
+            ],
+            [
+              107.6647568,
+              -6.9399885
+            ],
+            [
+              107.6647877,
+              -6.9396245
+            ],
+            [
+              107.6649821,
+              -6.9396508
+            ],
+            [
+              107.6649862,
+              -6.9393482
+            ],
+            [
+              107.6649887,
+              -6.939164
+            ],
+            [
+              107.6647258,
+              -6.9391772
+            ],
+            [
+              107.6647248,
+              -6.9393457
+            ],
+            [
+              107.6647236,
+              -6.939539
+            ],
+            [
+              107.6642018,
+              -6.9394589
+            ],
+            [
+              107.663924,
+              -6.9394162
+            ]
+          ]
+        ]
+      },
+      "id": "way/383052744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383052751",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Kantin",
+        "opening_hours": "24/7",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6693337,
+              -6.9392024
+            ],
+            [
+              107.6693377,
+              -6.9392776
+            ],
+            [
+              107.6694173,
+              -6.9392745
+            ],
+            [
+              107.6694167,
+              -6.9393711
+            ],
+            [
+              107.6695511,
+              -6.9393761
+            ],
+            [
+              107.6695503,
+              -6.9392072
+            ],
+            [
+              107.6695495,
+              -6.9390392
+            ],
+            [
+              107.6694168,
+              -6.9390405
+            ],
+            [
+              107.6693778,
+              -6.9391115
+            ],
+            [
+              107.6693798,
+              -6.9392027
+            ],
+            [
+              107.6693337,
+              -6.9392024
+            ]
+          ]
+        ]
+      },
+      "id": "way/383052751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512276510",
+        "addr:full": "Jalan Cihampelas No.43, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Wastu Nanda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6042463,
+              -6.9031523
+            ],
+            [
+              107.6042502,
+              -6.9030972
+            ],
+            [
+              107.6041906,
+              -6.903093
+            ],
+            [
+              107.6041867,
+              -6.9031482
+            ],
+            [
+              107.6042463,
+              -6.9031523
+            ]
+          ]
+        ]
+      },
+      "id": "way/512276510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512276655",
+        "addr:full": "Jalan Cihampelas No. 57, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Oncom Raos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6039386,
+              -6.902127
+            ],
+            [
+              107.6039252,
+              -6.9022001
+            ],
+            [
+              107.6041022,
+              -6.9022321
+            ],
+            [
+              107.6041156,
+              -6.902159
+            ],
+            [
+              107.6039386,
+              -6.902127
+            ]
+          ]
+        ]
+      },
+      "id": "way/512276655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512336167",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "The Cellar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6146781,
+              -6.9001046
+            ],
+            [
+              107.6146791,
+              -6.9002311
+            ],
+            [
+              107.6146768,
+              -6.9002311
+            ],
+            [
+              107.6146768,
+              -6.9004042
+            ],
+            [
+              107.6148753,
+              -6.9004042
+            ],
+            [
+              107.6148753,
+              -6.9002729
+            ],
+            [
+              107.6149065,
+              -6.9002715
+            ],
+            [
+              107.6148998,
+              -6.9001264
+            ],
+            [
+              107.6148511,
+              -6.9001286
+            ],
+            [
+              107.6148559,
+              -6.9002311
+            ],
+            [
+              107.614742,
+              -6.9002311
+            ],
+            [
+              107.614741,
+              -6.9001042
+            ],
+            [
+              107.6146781,
+              -6.9001046
+            ]
+          ]
+        ]
+      },
+      "id": "way/512336167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512704685",
+        "addr:street": "Jalan R.E. Martadinata",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indonesian",
+        "name": "Paviliun Sunda",
+        "outdoor_seating": "yes",
+        "payment:coins": "yes",
+        "payment:ep_flazz": "yes",
+        "payment:gpn_debit": "yes",
+        "payment:jcb": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:unionpay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "limited",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6200975,
+              -6.9054834
+            ],
+            [
+              107.6200882,
+              -6.9056485
+            ],
+            [
+              107.6202149,
+              -6.9056556
+            ],
+            [
+              107.6202243,
+              -6.9054905
+            ],
+            [
+              107.6200975,
+              -6.9054834
+            ]
+          ]
+        ]
+      },
+      "id": "way/512704685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513014436",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "name": "Karmila"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6176031,
+              -6.9182884
+            ],
+            [
+              107.6175935,
+              -6.9183998
+            ],
+            [
+              107.6178135,
+              -6.9184185
+            ],
+            [
+              107.617823,
+              -6.9183071
+            ],
+            [
+              107.6176031,
+              -6.9182884
+            ]
+          ]
+        ]
+      },
+      "id": "way/513014436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514277461",
+        "addr:city": "bandung",
+        "addr:housenumber": "8",
+        "addr:postcode": "40161",
+        "addr:street": "Jalan Boscha",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "burger;coffee_shop;sandwich",
+        "delivery": "yes",
+        "diet:halal": "yes",
+        "diet:meat": "yes",
+        "name": "BARBAR WINGS",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "opening_hours:covid19": "same",
+        "phone": "+6285624478749",
+        "website": "https://barbarwings.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6014361,
+              -6.8893695
+            ],
+            [
+              107.6012966,
+              -6.8893189
+            ],
+            [
+              107.6012655,
+              -6.8894035
+            ],
+            [
+              107.601405,
+              -6.8894541
+            ],
+            [
+              107.6014361,
+              -6.8893695
+            ]
+          ]
+        ]
+      },
+      "id": "way/514277461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514523448",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Sari Bundo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6203483,
+              -6.897828
+            ],
+            [
+              107.6203564,
+              -6.8979518
+            ],
+            [
+              107.6204913,
+              -6.8979431
+            ],
+            [
+              107.6204833,
+              -6.8978193
+            ],
+            [
+              107.6203483,
+              -6.897828
+            ]
+          ]
+        ]
+      },
+      "id": "way/514523448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/517374741",
+        "addr:city": "Braga",
+        "addr:housenumber": "127",
+        "addr:street": "Jalan Paledang",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Mie Naripan 127",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6141558,
+              -6.9249464
+            ],
+            [
+              107.6141484,
+              -6.925011
+            ],
+            [
+              107.6141904,
+              -6.9250157
+            ],
+            [
+              107.6141978,
+              -6.9249512
+            ],
+            [
+              107.6141558,
+              -6.9249464
+            ]
+          ]
+        ]
+      },
+      "id": "way/517374741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164001",
+        "addr:full": "Jalan Cihampelas No.70, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "name": "Warunk Upnormal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6043813,
+              -6.901321
+            ],
+            [
+              107.6043808,
+              -6.9013836
+            ],
+            [
+              107.6045091,
+              -6.9013841
+            ],
+            [
+              107.6045099,
+              -6.9013212
+            ],
+            [
+              107.6043813,
+              -6.901321
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164004",
+        "addr:full": "Jalan Cihampelas No.72, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "name": "Ayam Goreng Raos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6043813,
+              -6.901454
+            ],
+            [
+              107.6045096,
+              -6.9014557
+            ],
+            [
+              107.6045091,
+              -6.9013886
+            ],
+            [
+              107.6043811,
+              -6.9013873
+            ],
+            [
+              107.6043813,
+              -6.901454
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164007",
+        "addr:full": "Jalan Cihampelas No.68, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "name": "Bakso Semar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6044227,
+              -6.9015865
+            ],
+            [
+              107.604416,
+              -6.9016397
+            ],
+            [
+              107.6045287,
+              -6.9016597
+            ],
+            [
+              107.6045354,
+              -6.9016104
+            ],
+            [
+              107.6044227,
+              -6.9015865
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164010",
+        "addr:full": "Jalan Cihampelas No.66, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "name": "Betutu Lalah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6044422,
+              -6.9017542
+            ],
+            [
+              107.6044945,
+              -6.9017609
+            ],
+            [
+              107.6044904,
+              -6.9017889
+            ],
+            [
+              107.6046909,
+              -6.9018135
+            ],
+            [
+              107.604695,
+              -6.9017582
+            ],
+            [
+              107.604581,
+              -6.9017423
+            ],
+            [
+              107.6045877,
+              -6.9016863
+            ],
+            [
+              107.6044589,
+              -6.9016717
+            ],
+            [
+              107.6044422,
+              -6.9017542
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164032",
+        "addr:full": "Jalan Cihampelas No. 51B, Coblong, Tamansari, Bandung, Jawa Barat, 40131",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "name": "Warung Nasi Tegal Cihampelas Jaya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.604191,
+              -6.9029299
+            ],
+            [
+              107.6042372,
+              -6.9029306
+            ],
+            [
+              107.6042387,
+              -6.9028838
+            ],
+            [
+              107.6041912,
+              -6.9028838
+            ],
+            [
+              107.604191,
+              -6.9029299
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164078",
+        "addr:full": "Jalan Cihampelas No.82, Tamansari, Bandung, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "name": "Grandia Patisserie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6044261,
+              -6.9009155
+            ],
+            [
+              107.604648,
+              -6.9009221
+            ],
+            [
+              107.6046494,
+              -6.9008795
+            ],
+            [
+              107.6047727,
+              -6.9007903
+            ],
+            [
+              107.6047774,
+              -6.9006479
+            ],
+            [
+              107.604418,
+              -6.9006332
+            ],
+            [
+              107.6044127,
+              -6.900781
+            ],
+            [
+              107.6043651,
+              -6.900807
+            ],
+            [
+              107.6043637,
+              -6.9008675
+            ],
+            [
+              107.6044274,
+              -6.9008675
+            ],
+            [
+              107.6044261,
+              -6.9009155
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164122",
+        "addr:full": "Jalan Linggawastu no 7, Bandung",
+        "amenity": "restaurant",
+        "name": "Kedai Lingga 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.605159,
+              -6.9031775
+            ],
+            [
+              107.6052864,
+              -6.9031748
+            ],
+            [
+              107.6052864,
+              -6.903086
+            ],
+            [
+              107.6052425,
+              -6.903086
+            ],
+            [
+              107.6052425,
+              -6.903059
+            ],
+            [
+              107.6051053,
+              -6.903063
+            ],
+            [
+              107.605104,
+              -6.9030949
+            ],
+            [
+              107.6051737,
+              -6.9030936
+            ],
+            [
+              107.6051737,
+              -6.9031242
+            ],
+            [
+              107.6051576,
+              -6.9031242
+            ],
+            [
+              107.605159,
+              -6.9031775
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164124",
+        "addr:full": "Jalan Linggawastu no 5, Bandung",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Rumah Daging"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6051939,
+              -6.9033359
+            ],
+            [
+              107.6052904,
+              -6.9033333
+            ],
+            [
+              107.6052904,
+              -6.9032294
+            ],
+            [
+              107.6052542,
+              -6.9032294
+            ],
+            [
+              107.6052529,
+              -6.9031988
+            ],
+            [
+              107.6051348,
+              -6.9032054
+            ],
+            [
+              107.6051362,
+              -6.9032534
+            ],
+            [
+              107.6051885,
+              -6.9032507
+            ],
+            [
+              107.6051939,
+              -6.9033359
+            ]
+          ]
+        ]
+      },
+      "id": "way/530164124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530965971",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "cuisine": "mediterranean",
+        "delivery": "yes",
+        "name": "Kebuli Al-Khalid",
+        "takeaway": "only",
+        "toilets:access": "private",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6608229,
+              -6.9156936
+            ],
+            [
+              107.660847,
+              -6.9156803
+            ],
+            [
+              107.6608198,
+              -6.9156317
+            ],
+            [
+              107.6607957,
+              -6.915645
+            ],
+            [
+              107.6608229,
+              -6.9156936
+            ]
+          ]
+        ]
+      },
+      "id": "way/530965971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546626775",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Ayam Geprek Bebas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.61634,
+              -6.891095
+            ],
+            [
+              107.6163775,
+              -6.8911682
+            ],
+            [
+              107.6164392,
+              -6.8911409
+            ],
+            [
+              107.6164473,
+              -6.8911602
+            ],
+            [
+              107.6165338,
+              -6.8911256
+            ],
+            [
+              107.6165089,
+              -6.8910744
+            ],
+            [
+              107.6165434,
+              -6.8910562
+            ],
+            [
+              107.6165202,
+              -6.8910057
+            ],
+            [
+              107.61634,
+              -6.891095
+            ]
+          ]
+        ]
+      },
+      "id": "way/546626775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550477284",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "noodles;yamin",
+        "name": "Warung Lela"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6280096,
+              -6.8721892
+            ],
+            [
+              107.6279018,
+              -6.8721731
+            ],
+            [
+              107.6278923,
+              -6.8722355
+            ],
+            [
+              107.6280001,
+              -6.8722516
+            ],
+            [
+              107.6280096,
+              -6.8721892
+            ]
+          ]
+        ]
+      },
+      "id": "way/550477284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550633633",
+        "addr:city": "Bandung",
+        "addr:housenumber": "41",
+        "addr:postcode": "40143",
+        "addr:street": "Jl. Setiabudhi",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indonesian",
+        "name": "Foodcourt Rumah Mode",
+        "payment:coins": "yes",
+        "payment:gopay_id": "yes",
+        "payment:notes": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.599457,
+              -6.8827
+            ],
+            [
+              107.5994267,
+              -6.8828344
+            ],
+            [
+              107.5993683,
+              -6.8828193
+            ],
+            [
+              107.5993543,
+              -6.8828785
+            ],
+            [
+              107.599387,
+              -6.8829862
+            ],
+            [
+              107.5994886,
+              -6.8830094
+            ],
+            [
+              107.5995563,
+              -6.8827197
+            ],
+            [
+              107.599457,
+              -6.8827
+            ]
+          ]
+        ]
+      },
+      "id": "way/550633633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550634184",
+        "amenity": "restaurant",
+        "name": "Mr Roastman Experience",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 07:00-21:00",
+        "website": "https://mrroastman.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6052713,
+              -6.8731233
+            ],
+            [
+              107.6051532,
+              -6.8733035
+            ],
+            [
+              107.6051319,
+              -6.873393
+            ],
+            [
+              107.6052066,
+              -6.8734116
+            ],
+            [
+              107.6052382,
+              -6.8732887
+            ],
+            [
+              107.6053573,
+              -6.8733165
+            ],
+            [
+              107.6053934,
+              -6.8731496
+            ],
+            [
+              107.6052713,
+              -6.8731233
+            ]
+          ]
+        ]
+      },
+      "id": "way/550634184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/630779620",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:use": "residential",
+        "name": "Gedung Pujasera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5724843,
+              -6.8734614
+            ],
+            [
+              107.5724818,
+              -6.8737284
+            ],
+            [
+              107.5726935,
+              -6.8737304
+            ],
+            [
+              107.572696,
+              -6.8734634
+            ],
+            [
+              107.5724843,
+              -6.8734614
+            ]
+          ]
+        ]
+      },
+      "id": "way/630779620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632254937",
+        "addr:city": "Kota Bandung",
+        "addr:housenumber": "3",
+        "addr:postcode": "40242",
+        "addr:street": "Jalan Peta",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "bakso",
+        "diet:halal": "yes",
+        "diet:local": "yes",
+        "diet:meat": "yes",
+        "name": "Bakso Beranak Raja & Ratu",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6027668,
+              -6.9374016
+            ],
+            [
+              107.6027253,
+              -6.9373951
+            ],
+            [
+              107.602723,
+              -6.9374096
+            ],
+            [
+              107.6026736,
+              -6.9374018
+            ],
+            [
+              107.6026536,
+              -6.9375263
+            ],
+            [
+              107.6028068,
+              -6.9375506
+            ],
+            [
+              107.6028114,
+              -6.9375222
+            ],
+            [
+              107.6027714,
+              -6.9375159
+            ],
+            [
+              107.6027813,
+              -6.9374546
+            ],
+            [
+              107.6027588,
+              -6.937451
+            ],
+            [
+              107.6027668,
+              -6.9374016
+            ]
+          ]
+        ]
+      },
+      "id": "way/632254937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632659617",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "en:Pizza Hut",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6233235,
+              -6.9369909
+            ],
+            [
+              107.6232059,
+              -6.9368841
+            ],
+            [
+              107.623069,
+              -6.9370202
+            ],
+            [
+              107.6230703,
+              -6.9370687
+            ],
+            [
+              107.6230878,
+              -6.937069
+            ],
+            [
+              107.6231847,
+              -6.9371567
+            ],
+            [
+              107.6233235,
+              -6.9369909
+            ]
+          ]
+        ]
+      },
+      "id": "way/632659617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632681307",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Chingu Cafe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6266394,
+              -6.9412393
+            ],
+            [
+              107.6265624,
+              -6.9413134
+            ],
+            [
+              107.626658,
+              -6.9414128
+            ],
+            [
+              107.6267791,
+              -6.9413061
+            ],
+            [
+              107.6267326,
+              -6.9412574
+            ],
+            [
+              107.6266841,
+              -6.9412912
+            ],
+            [
+              107.6266394,
+              -6.9412393
+            ]
+          ]
+        ]
+      },
+      "id": "way/632681307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633734524",
+        "addr:city": "Bandung",
+        "addr:housenumber": "33-1",
+        "addr:province": "Jawa Barat",
+        "addr:street": "Jalan Sumber Mekar",
+        "addr:suburb": "Sumber Sari",
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "tegalan",
+        "name": "Bahari",
+        "opening_hours": "Mo-Su 08:00-20:30; PH closed",
+        "ref": "HPWBR 17",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5746299,
+              -6.9327116
+            ],
+            [
+              107.5746266,
+              -6.9327095
+            ],
+            [
+              107.5746382,
+              -6.9326834
+            ],
+            [
+              107.574635,
+              -6.9326815
+            ],
+            [
+              107.574645,
+              -6.9326653
+            ],
+            [
+              107.5746383,
+              -6.9326611
+            ],
+            [
+              107.5746514,
+              -6.9326363
+            ],
+            [
+              107.5746461,
+              -6.9326327
+            ],
+            [
+              107.5746514,
+              -6.932623
+            ],
+            [
+              107.5746227,
+              -6.9326052
+            ],
+            [
+              107.5745649,
+              -6.9327
+            ],
+            [
+              107.5746176,
+              -6.932732
+            ],
+            [
+              107.5746299,
+              -6.9327116
+            ]
+          ]
+        ]
+      },
+      "id": "way/633734524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636169272",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Simpang Raya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5878224,
+              -6.8948565
+            ],
+            [
+              107.5877288,
+              -6.8947856
+            ],
+            [
+              107.5875301,
+              -6.8950477
+            ],
+            [
+              107.5876237,
+              -6.8951186
+            ],
+            [
+              107.5878224,
+              -6.8948565
+            ]
+          ]
+        ]
+      },
+      "id": "way/636169272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637407891",
+        "amenity": "restaurant",
+        "building": "yes",
+        "description": "Ini adalah salah satu warungmakan di dagoasri\n#grabcgise2018_team1",
+        "name": "Warung Dago Asri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6152745,
+              -6.8784849
+            ],
+            [
+              107.6152967,
+              -6.8785242
+            ],
+            [
+              107.6153195,
+              -6.8785595
+            ],
+            [
+              107.615359,
+              -6.8785448
+            ],
+            [
+              107.6153087,
+              -6.8784809
+            ],
+            [
+              107.6152745,
+              -6.8784849
+            ]
+          ]
+        ]
+      },
+      "id": "way/637407891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637415694",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Restoran Mie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6173804,
+              -6.8971501
+            ],
+            [
+              107.6173857,
+              -6.8972116
+            ],
+            [
+              107.6175184,
+              -6.8972063
+            ],
+            [
+              107.6175149,
+              -6.8971448
+            ],
+            [
+              107.6173804,
+              -6.8971501
+            ]
+          ]
+        ]
+      },
+      "id": "way/637415694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637416757",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "50",
+        "name": "Rumah makan Palanta Minang",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.611558,
+              -6.8828838
+            ],
+            [
+              107.6115557,
+              -6.8831721
+            ],
+            [
+              107.6116995,
+              -6.8831732
+            ],
+            [
+              107.6117018,
+              -6.8828849
+            ],
+            [
+              107.611558,
+              -6.8828838
+            ]
+          ]
+        ]
+      },
+      "id": "way/637416757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637421286",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Rumah Makan Bu Tatang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6209203,
+              -6.8890656
+            ],
+            [
+              107.6209156,
+              -6.8891289
+            ],
+            [
+              107.6209311,
+              -6.8891369
+            ],
+            [
+              107.6209344,
+              -6.8891582
+            ],
+            [
+              107.6210135,
+              -6.8891615
+            ],
+            [
+              107.6210062,
+              -6.8891109
+            ],
+            [
+              107.6209813,
+              -6.8890603
+            ],
+            [
+              107.6209203,
+              -6.8890656
+            ]
+          ]
+        ]
+      },
+      "id": "way/637421286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637422881",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Sabana Fried Chicken"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6118245,
+              -6.8822575
+            ],
+            [
+              107.6118258,
+              -6.8823368
+            ],
+            [
+              107.6118856,
+              -6.8823359
+            ],
+            [
+              107.6118843,
+              -6.8822565
+            ],
+            [
+              107.6118245,
+              -6.8822575
+            ]
+          ]
+        ]
+      },
+      "id": "way/637422881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637425365",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Rumah Makan Cempaka"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6109214,
+              -6.8797549
+            ],
+            [
+              107.6109133,
+              -6.8798308
+            ],
+            [
+              107.6109442,
+              -6.8798335
+            ],
+            [
+              107.6110186,
+              -6.8798395
+            ],
+            [
+              107.6110153,
+              -6.8797576
+            ],
+            [
+              107.6109214,
+              -6.8797549
+            ]
+          ]
+        ]
+      },
+      "id": "way/637425365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637426848",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "15",
+        "name": "Dapur Nunomy",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6118412,
+              -6.8816905
+            ],
+            [
+              107.6118378,
+              -6.8817352
+            ],
+            [
+              107.6119709,
+              -6.8817364
+            ],
+            [
+              107.6119664,
+              -6.8816938
+            ],
+            [
+              107.6118412,
+              -6.8816905
+            ]
+          ]
+        ]
+      },
+      "id": "way/637426848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637428417",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Rumah makan Taraso"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.612471,
+              -6.8818923
+            ],
+            [
+              107.6124699,
+              -6.8819404
+            ],
+            [
+              107.6125003,
+              -6.8819404
+            ],
+            [
+              107.6124992,
+              -6.8819718
+            ],
+            [
+              107.6125432,
+              -6.8819762
+            ],
+            [
+              107.6125511,
+              -6.8818878
+            ],
+            [
+              107.612471,
+              -6.8818923
+            ]
+          ]
+        ]
+      },
+      "id": "way/637428417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637429255",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Angkringan Rumah Nenek"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6127531,
+              -6.8822113
+            ],
+            [
+              107.6127502,
+              -6.8822805
+            ],
+            [
+              107.6127953,
+              -6.8822917
+            ],
+            [
+              107.6127998,
+              -6.8822783
+            ],
+            [
+              107.6128336,
+              -6.8822783
+            ],
+            [
+              107.6128394,
+              -6.8822167
+            ],
+            [
+              107.6127531,
+              -6.8822113
+            ]
+          ]
+        ]
+      },
+      "id": "way/637429255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/638470830",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian;padang",
+        "diet:halal": "yes",
+        "name": "RM. Sederhana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5891569,
+              -6.8947929
+            ],
+            [
+              107.5891331,
+              -6.8947342
+            ],
+            [
+              107.5888809,
+              -6.8947116
+            ],
+            [
+              107.5888663,
+              -6.8949455
+            ],
+            [
+              107.5889188,
+              -6.8949496
+            ],
+            [
+              107.588918,
+              -6.8949698
+            ],
+            [
+              107.5889661,
+              -6.8949715
+            ],
+            [
+              107.5889651,
+              -6.8950203
+            ],
+            [
+              107.5890321,
+              -6.8950196
+            ],
+            [
+              107.589031,
+              -6.8949834
+            ],
+            [
+              107.58908,
+              -6.8950154
+            ],
+            [
+              107.5891812,
+              -6.8948743
+            ],
+            [
+              107.5891569,
+              -6.8947929
+            ]
+          ]
+        ]
+      },
+      "id": "way/638470830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648355986",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "food;fried_food;ayam_geprek",
+        "name": "CRISBAR",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6125255,
+              -6.8788453
+            ],
+            [
+              107.6125759,
+              -6.8788581
+            ],
+            [
+              107.6125636,
+              -6.8789062
+            ],
+            [
+              107.6126667,
+              -6.8789323
+            ],
+            [
+              107.6126752,
+              -6.8788991
+            ],
+            [
+              107.6127234,
+              -6.8789113
+            ],
+            [
+              107.6127365,
+              -6.8788603
+            ],
+            [
+              107.6127004,
+              -6.8788512
+            ],
+            [
+              107.6127082,
+              -6.8788207
+            ],
+            [
+              107.6126723,
+              -6.8788116
+            ],
+            [
+              107.6126771,
+              -6.8787927
+            ],
+            [
+              107.6125474,
+              -6.8787599
+            ],
+            [
+              107.6125255,
+              -6.8788453
+            ]
+          ]
+        ]
+      },
+      "id": "way/648355986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/676065381",
+        "amenity": "restaurant",
+        "building": "yes",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6273677,
+              -6.9697679
+            ],
+            [
+              107.6271919,
+              -6.9699303
+            ],
+            [
+              107.6273153,
+              -6.970062
+            ],
+            [
+              107.6274911,
+              -6.9698996
+            ],
+            [
+              107.6273677,
+              -6.9697679
+            ]
+          ]
+        ]
+      },
+      "id": "way/676065381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/685566040",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Skyline"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6384169,
+              -6.8583808
+            ],
+            [
+              107.638623,
+              -6.8585781
+            ],
+            [
+              107.6388595,
+              -6.8583346
+            ],
+            [
+              107.6386534,
+              -6.8581373
+            ],
+            [
+              107.6384169,
+              -6.8583808
+            ]
+          ]
+        ]
+      },
+      "id": "way/685566040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731259292",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Kantin PKM"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5933886,
+              -6.8622298
+            ],
+            [
+              107.5933664,
+              -6.8624659
+            ],
+            [
+              107.5935591,
+              -6.8624838
+            ],
+            [
+              107.5935813,
+              -6.8622477
+            ],
+            [
+              107.5933886,
+              -6.8622298
+            ]
+          ]
+        ]
+      },
+      "id": "way/731259292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/733084313",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6736821,
+              -6.8774631
+            ],
+            [
+              107.673656,
+              -6.8774784
+            ],
+            [
+              107.6736486,
+              -6.8774964
+            ],
+            [
+              107.6736539,
+              -6.8775403
+            ],
+            [
+              107.673668,
+              -6.8775391
+            ],
+            [
+              107.673707,
+              -6.8775314
+            ],
+            [
+              107.6737244,
+              -6.8774951
+            ],
+            [
+              107.673725,
+              -6.8774817
+            ],
+            [
+              107.6736821,
+              -6.8774631
+            ]
+          ]
+        ]
+      },
+      "id": "way/733084313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/769459958",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "noodle;roti_bakar;bubur_kacang_iho",
+        "name": "Sadikin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.612627,
+              -6.8793534
+            ],
+            [
+              107.6126213,
+              -6.8793941
+            ],
+            [
+              107.6126655,
+              -6.8793941
+            ],
+            [
+              107.6126705,
+              -6.879355
+            ],
+            [
+              107.612627,
+              -6.8793534
+            ]
+          ]
+        ]
+      },
+      "id": "way/769459958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779458024",
+        "addr:city": "Bandung",
+        "addr:housenumber": "2",
+        "addr:postcode": "40111",
+        "addr:street": "Jalan Merdeka",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Furama Restaurant Bandung"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6102156,
+              -6.9157325
+            ],
+            [
+              107.6101915,
+              -6.9157818
+            ],
+            [
+              107.6102022,
+              -6.9158497
+            ],
+            [
+              107.6102362,
+              -6.9158927
+            ],
+            [
+              107.6102598,
+              -6.9156996
+            ],
+            [
+              107.6102156,
+              -6.9157325
+            ]
+          ]
+        ]
+      },
+      "id": "way/779458024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/810717204",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6107069,
+              -6.9118469
+            ],
+            [
+              107.6106916,
+              -6.9119897
+            ],
+            [
+              107.6109183,
+              -6.9120048
+            ],
+            [
+              107.6109335,
+              -6.9118685
+            ],
+            [
+              107.6107069,
+              -6.9118469
+            ]
+          ]
+        ]
+      },
+      "id": "way/810717204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829328767",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Es Kelapa Muda Rizky"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6319972,
+              -6.8847345
+            ],
+            [
+              107.632027,
+              -6.8847792
+            ],
+            [
+              107.632101,
+              -6.8847306
+            ],
+            [
+              107.6320711,
+              -6.8846859
+            ],
+            [
+              107.6319972,
+              -6.8847345
+            ]
+          ]
+        ]
+      },
+      "id": "way/829328767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/871816999",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6193626,
+              -6.8674603
+            ],
+            [
+              107.6193874,
+              -6.8674869
+            ],
+            [
+              107.619418,
+              -6.8674587
+            ],
+            [
+              107.6193931,
+              -6.8674322
+            ],
+            [
+              107.6193626,
+              -6.8674603
+            ]
+          ]
+        ]
+      },
+      "id": "way/871816999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/871821146",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6194315,
+              -6.867544
+            ],
+            [
+              107.6194662,
+              -6.8675899
+            ],
+            [
+              107.6195001,
+              -6.8675646
+            ],
+            [
+              107.6194654,
+              -6.8675188
+            ],
+            [
+              107.6194315,
+              -6.867544
+            ]
+          ]
+        ]
+      },
+      "id": "way/871821146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/884030176",
+        "addr:city": "Bandung",
+        "addr:street": "Jalan Cigadung Raya Barat",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chicken;regional;asian",
+        "name": "Rumah Makan Padang Takana Raso 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6249186,
+              -6.8804692
+            ],
+            [
+              107.624922,
+              -6.8805485
+            ],
+            [
+              107.6249323,
+              -6.8805481
+            ],
+            [
+              107.6249328,
+              -6.8805604
+            ],
+            [
+              107.6249703,
+              -6.8805589
+            ],
+            [
+              107.6249663,
+              -6.8804671
+            ],
+            [
+              107.6249186,
+              -6.8804692
+            ]
+          ]
+        ]
+      },
+      "id": "way/884030176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1051943026",
+        "addr:city": "Cimahi",
+        "addr:street": "Jalan Jenderal Haji Amir Machmud",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "Kentucy Friend Chicken (KFC) Cibabat",
+        "opening_hours:covid19": "same",
+        "smoking": "separated",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.5499932,
+              -6.8787879
+            ],
+            [
+              107.5500783,
+              -6.8788527
+            ],
+            [
+              107.5501266,
+              -6.8787843
+            ],
+            [
+              107.5500401,
+              -6.8787121
+            ],
+            [
+              107.5499932,
+              -6.8787879
+            ]
+          ]
+        ]
+      },
+      "id": "way/1051943026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1126614323",
+        "amenity": "restaurant",
+        "cuisine": "tegalan",
+        "name": "Bahari Selera Nusantara",
+        "opening_hours": "Mo-Su 09:00-20:30; PH closed",
+        "room": "restaurant",
+        "takeaway": "yes",
+        "toilets": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6614435,
+              -6.9161197
+            ],
+            [
+              107.6614807,
+              -6.9161663
+            ],
+            [
+              107.6615047,
+              -6.9161474
+            ],
+            [
+              107.6615118,
+              -6.916109
+            ],
+            [
+              107.6614907,
+              -6.9160825
+            ],
+            [
+              107.6614435,
+              -6.9161197
+            ]
+          ]
+        ]
+      },
+      "id": "way/1126614323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144695064",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.612033,
+              -6.8975027
+            ],
+            [
+              107.6120271,
+              -6.8976293
+            ],
+            [
+              107.6121854,
+              -6.8976366
+            ],
+            [
+              107.6121875,
+              -6.8975915
+            ],
+            [
+              107.6122101,
+              -6.8975926
+            ],
+            [
+              107.6122139,
+              -6.8975111
+            ],
+            [
+              107.612033,
+              -6.8975027
+            ]
+          ]
+        ]
+      },
+      "id": "way/1144695064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144695066",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6120645,
+              -6.8972539
+            ],
+            [
+              107.6120596,
+              -6.8973697
+            ],
+            [
+              107.6122286,
+              -6.8973767
+            ],
+            [
+              107.6122335,
+              -6.897261
+            ],
+            [
+              107.6120645,
+              -6.8972539
+            ]
+          ]
+        ]
+      },
+      "id": "way/1144695066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144695068",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6119076,
+              -6.8973901
+            ],
+            [
+              107.6118969,
+              -6.8974966
+            ],
+            [
+              107.6120096,
+              -6.8975078
+            ],
+            [
+              107.6120253,
+              -6.8973529
+            ],
+            [
+              107.6119696,
+              -6.8973474
+            ],
+            [
+              107.6119647,
+              -6.8973958
+            ],
+            [
+              107.6119076,
+              -6.8973901
+            ]
+          ]
+        ]
+      },
+      "id": "way/1144695068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144695081",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              107.6124043,
+              -6.893849
+            ],
+            [
+              107.6123422,
+              -6.8941235
+            ],
+            [
+              107.6125461,
+              -6.894169
+            ],
+            [
+              107.6126083,
+              -6.8938945
+            ],
+            [
+              107.6124043,
+              -6.893849
+            ]
+          ]
+        ]
+      },
+      "id": "way/1144695081"
+    }
+  ]
+}
