@@ -1,2 +1,2 @@
 # Spatial_regression_Airbnb_Indonesia
-Main codes and data for PLOS ONE paper
+This repository contains data and codes used in the paper titled: _Understanding the Spatial Pattern and Determinants of Airbnb Revenue Through a Spatial Econometric Approach: Perspective from Indonesian Cities_ published in PLOS ONE. 
